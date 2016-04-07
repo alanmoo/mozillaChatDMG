@@ -1,0 +1,10 @@
+{
+    "title": "Mozilla Chat",
+    "icon-size": 80,
+    "background": "background.png",
+    "icon": "Mattermost.icns",
+    "contents": [
+        { "x": 465, "y": 105, "type": "link", "path": "/Applications" },
+        { "x": 120, "y": 105, "type": "file", "path": "./Mattermost.app" }
+    ]
+}
